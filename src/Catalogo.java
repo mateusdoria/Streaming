@@ -65,7 +65,7 @@ public class Catalogo {
         //looping
         static void showMenu(){
             System.out.println("=========== Catalogo ==========");
-            System.out.println("1 Adidionar Filme");
+            System.out.println("1 Adicionar Filme");
             System.out.println("2 Listar Filme");
             System.out.println("3 Excluir titulos");
             System.out.println("4 Sair");
